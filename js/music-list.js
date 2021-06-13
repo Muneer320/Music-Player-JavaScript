@@ -49,5 +49,11 @@ let allMusic = [
       artist: "Imagine Drangons",
       img: "music-7",
       src: "music-7"
+    },
+    {
+      name: "Perfect Two",
+      artist: "Auburn",
+      img: "music-8",
+      src: "music-8"
     }
   ];
